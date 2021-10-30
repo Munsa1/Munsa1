@@ -19,7 +19,9 @@ HOBBIES
 - watching movies, 
 - making music
 
+SOCIAL MEDIA LINKS
 
+<a href="https://twitter.com/home?status=7%20Marketing%20Skills%20You%20Need%20To%20Get%20a%20Promotion:%20http://bit.ly/SYO3LX%20via%20@HubSpot%20%23marketingtips" target="_blank" data-mce-target="_blank"><img src="https://blog.hubspot.com/hs-fs/hub/53/file-951108259-png/social-icons-01-2.png" alt="social-icons-01-2"></a>
 
 
 <!--
