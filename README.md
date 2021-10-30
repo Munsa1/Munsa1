@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub profile👋
+
+const firstName = "Munsa";
+const lastName = "Mibenge";
+let languages = ["Html", "Css", "Javascript"];
+
+-Interests include, swimming, bike riding, watching movies, making music
+
+
 
 <!--
 **Munsa1/Munsa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
