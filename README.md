@@ -1,10 +1,24 @@
 ### Hi there, welcome to my GitHub profile👋
 
 const firstName = "Munsa";
-const lastName = "Mibenge";
-let languages = ["Html", "Css", "Javascript"];
 
--Interests include, swimming, bike riding, watching movies, making music
+const lastName = "Mibenge";
+
+let languages = ["Html", "CSS", "Javascript"];
+
+EDUCATION
+- GCSE general exams certification
+- Diploma in Computer $cience
+- Bachelors in Computing
+- Engineering Institute of Zambia (EIZ) Certification
+
+
+HOBBIES
+- swimming, 
+- bike riding, 
+- watching movies, 
+- making music
+
 
 
 
