@@ -4,7 +4,7 @@ const firstName = "Munsa";
 
 const lastName = "Mibenge";
 
-let languages = ["Html", "CSS", "Javascript"];
+let languages = ["HTML", "CSS", "JavaScript"];
 
 EDUCATION
 - GCSE general exams certification
