@@ -6,6 +6,8 @@ const lastName = "Mibenge";
 
 let languages = ["HTML", "CSS", "JavaScript"];
 
+const EmailAddress = "munsamibenge65@gmail.com";
+
 EDUCATION
 - GCSE general exams certification
 - Diploma in Computer $cience
