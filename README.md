@@ -1,12 +1,5 @@
-### Hi there, welcome to my GitHub profile👋
+![Hey there, I'm Munsa. I'm a software developer, and a part-time code reviewer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
-const firstName = "Munsa";
-
-const lastName = "Mibenge";
-
-let languages = ["HTML", "CSS", "JavaScript"];
-
-const EmailAddress = "munsamibenge65@gmail.com";
 
 
 ## 🧰 &nbsp;My toolbox
