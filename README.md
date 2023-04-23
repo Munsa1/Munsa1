@@ -22,16 +22,11 @@ HOBBIES
 
 SOCIAL MEDIA LINKS
 
-<a href="https://twitter.com/MibengeMunsa" target="_blank" data-mce-target="_blank"><img src="https://blog.hubspot.com/hs-fs/hub/53/file-951108259-png/social-icons-01-2.png" alt="social-icons-01-2"></a>
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/munsa-mibenge/)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/MibengeMunsa)
 
 
-
-<a href="https://www.linkedin.com/in/munsa-mibenge-a35736205/" target="_blank" data-mce-target="_blank"><img src="https://blog.hubspot.com/hs-fs/hub/53/file-951108339-png/social-icons-03-1.png" alt="social-icons-03-1"></a>
-
-
-
-
-<a href="https://https://web.facebook.com/munsa.mibenge.9/" target="_blank" data-mce-target="_blank"><img src="https://blog.hubspot.com/hs-fs/hub/53/file-953681786-png/social-icons-02-1.png" alt="social-icons-02-1"></a>
 
 
 <!--
