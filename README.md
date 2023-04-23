@@ -15,8 +15,8 @@
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/munsa-mibenge/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/MibengeMunsa)
 [![](https://img.shields.io/badge/-facebook-1877F2?style=flat-square)](https://web.facebook.com/munsa.mibenge.9/)
-
-
+[![](https://img.shields.io/badge/-instagram-E4405F?style=flat-square)](https://www.instagram.com/munsa_mibenge)
+ 
 
 
 <!--
