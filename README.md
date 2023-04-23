@@ -1,4 +1,4 @@
-![Hey there, I'm Munsa. I'm a software developer, and a part-time code reviewer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+<!-- ![Hey there, I'm Munsa. I'm a software developer, and a part-time code reviewer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif) -->
 
 
 
