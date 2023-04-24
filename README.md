@@ -1,4 +1,5 @@
-![Studio_Project](https://user-images.githubusercontent.com/81932478/233855157-6e24949f-52a8-4ab3-aa3c-2d73faf39d65.gif)
+![myGithubProfilePic](https://user-images.githubusercontent.com/81932478/234061815-5c5dd07b-0037-4e7b-a23a-fc64512ad66d.jpg)
+
 
 
 
