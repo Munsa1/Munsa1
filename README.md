@@ -1,6 +1,6 @@
 <div align="center">
-<h1 color="red">Hi there! Welcome</h1>
-<img src="https://user-images.githubusercontent.com/81932478/234242848-18398473-b636-4fb0-92b1-20f4b4072cbc.gif" width="700px" height="350px" align="center" />
+<h1 color="red">Hi There! Welcome</h1>
+<img src="https://user-images.githubusercontent.com/81932478/234242848-18398473-b636-4fb0-92b1-20f4b4072cbc.gif" width="800px" height="200px" align="center" />
 </div>
 
 
